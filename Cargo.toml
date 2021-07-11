@@ -1,0 +1,12 @@
+[package]
+name = "num-time-duration"
+version = "0.1.0"
+edition = "2018"
+authors = ["yassun4dev <yassun4dev@outlook.com>"]
+repository = "https://github.com/yassun4dev/num-time-duration.git"
+description = "Provide a convenient way to create `std::time::Duration` from numbers."
+keywords = ["duration"]
+license = "MIT"
+
+[dependencies]
+num-traits = "0.2.14"
